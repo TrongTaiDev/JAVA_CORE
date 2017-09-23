@@ -5,7 +5,7 @@ public class Enum {
 		MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
 	}
 	
-	public static void main(String argn[]) {
+	public static void main(String argns[]) {
 		//In ra các giá trị của Enum WeekDays
 		for(WeekDays day : WeekDays.values()) {
 			System.out.println(day);
