@@ -1,4 +1,4 @@
-package Bai1;
+package bai1_equals_hashcode;
 
 public class Employee {
 	public int employeeId;
