@@ -23,7 +23,7 @@ public class Enum {
 			break;
 		case SATURDAY:
 		case SUNDAY:
-			System.out.println("Relaxing!");
+			System.out.println("Relax!");
 			break;
 		default: System.out.println("It is not a day!");
 			break;		
