@@ -27,7 +27,7 @@ public class Book {
 		book1.author = "Tai";
 		
 		Book book2 = new Book();
-		book2.ISBN = 1;
+		book2.ISBN = 2;
 		book2.pageCount = 199;
 		book2.title = "Java";
 		book2.author = "Tai";
