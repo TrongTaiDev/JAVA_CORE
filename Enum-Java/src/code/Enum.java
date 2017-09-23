@@ -6,7 +6,7 @@ public class Enum {
 	}
 	
 	public static void main(String argn[]) {
-		//In ra các giá trị của enum WeekDays
+		//In ra các giá trị của Enum WeekDays
 		for(WeekDays day : WeekDays.values()) {
 			System.out.println(day);
 		}
